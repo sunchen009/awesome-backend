@@ -155,6 +155,7 @@
    4. Akka
    5. Quartz
 
+
 ## 常见开发任务
   1. ID生成
     * [Hashids](http://hashids.org/)
@@ -166,10 +167,31 @@
   
 
 
-
-
 ## 开放API
-1. [高德地图API](http://lbs.amap.com/)
+* 地理位置
+	1. [高德地图API](http://lbs.amap.com/)
+	2. [百度地图API](http://lbsyun.baidu.com/)
+* 数据服务
+    1. [聚合数据](https://www.juhe.cn/)
 
+## 云服务
+* 云服务器
+   1. 阿里云
+   2. Azure
+   3. AWS
+   4. 青云
+   5. BAE
+   6. 腾讯云
+* VPS
+* APM
+   1. [听云](http://www.tingyun.com/)
+   2. [OneAPM](http://www.oneapm.com/)
+
+* 消息报警
+   1. [Pagerduty](https://www.pagerduty.com/)
+   2. [AWS SNS](https://aws.amazon.com/cn/sns/)
+   3. [Server酱](http://sc.ftqq.com/3.version)
+* 服务器监控
+   1. [监控宝](http://www.jiankongbao.com/)
 
 
